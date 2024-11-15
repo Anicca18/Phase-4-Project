@@ -1,6 +1,3 @@
-
-![launching-moon-bitcoin-rocket-start_886350-528](https://github.com/user-attachments/assets/eaf10ab6-2a69-481c-858a-a6d5fbe6ea72)
-
 # Bitcoin Price Prediction
 
 ## Author: Jessie Freelander
@@ -27,15 +24,12 @@ The goal of this project is to predict Bitcoin price movements based on sentimen
 - **Preprocessing**: Cleaning of raw text data to extract meaningful sentiment.
 
 ### Sentiment and Price Analysis Graph 
-![Screenshot 2024-11-15 at 9 52 51 AM](https://github.com/user-attachments/assets/837202e1-9007-4409-8ece-69def16dfc71)
-
-- **Graph**: 
-This graph illustrates the relationship between Bitcoin's price and average sentiment (red line) over time from December 2023 to February 2024. Bitcoin's price shows an overall upward trend with significant fluctuations, while sentiment varies sharply, possibly reflecting market reactions to news or events. Although not perfectly correlated, there are instances where a rise in sentiment is followed by an increase in Bitcoin's price, hinting that sentiment could have an influence on price movements.
+/Users/jessiefreelander/Desktop/Screenshot 2024-11-15 at 9.52.51 AM.png
+- **Graph**: Graphing Bitcoin Price and Average Sentiment Over Time (exlpanation)
 
 ### Machine Learning Models
 - Built and evaluated multiple models to predict price action.
-![Screenshot 2024-11-15 at 9 56 57 AM](https://github.com/user-attachments/assets/27290fbe-7af1-4b7c-b43f-b555cd25c6c7)
-
+/Users/jessiefreelander/Desktop/Screenshot 2024-11-15 at 9.56.40 AM.png
 - Performance Metrics:
   - **Accuracy**: 0.65
   - **Precision**: 0.64
@@ -56,5 +50,5 @@ This graph illustrates the relationship between Bitcoin's price and average sent
 
 
 ## Directory
-Data: [Combined Data Frame]([https://pypi.org/project/pybaseball/2.0.0/](https://github.com/Anicca18/Phase-4-Project/tree/main/Data))
-Presentation: [Presentation.pdf]([https://github.com/user-attachments/files/17546271/Presentation.pdf](https://github.com/Anicca18/Phase-4-Project/blob/main/Presentation.pdf))
+Data: [Pybaseball](https://pypi.org/project/pybaseball/2.0.0/)
+Presentation: [Presentation.pdf](https://github.com/user-attachments/files/17546271/Presentation.pdf)
